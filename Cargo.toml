@@ -3,12 +3,10 @@ name = "Goruath"
 version = "0.0.0"
 edition = "2024"
 description = "2DゲームエンジンとUIエンジンのフレームワーク"
-license = "MIT"  # または他のライセンス
+license = "MIT"
 repository = "https://github.com/ichigo-chameleon/Goruath"
 documentation = "https://github.com/ichigo-chameleon/Goruath/blob/master/README.md"
 homepage = "https://github.com/ichigo-chameleon/Goruath"
 
 
 [dependencies]
-skia-safe = "0.82.0"
-winit = "0.30.9"
