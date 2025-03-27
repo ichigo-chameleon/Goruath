@@ -1,7 +1,13 @@
 [package]
 name = "Goruath"
-version = "0.1.0"
+version = "0.0.0"
 edition = "2024"
+description = "2DゲームエンジンとUIエンジンのフレームワーク"
+license = "MIT"  # または他のライセンス
+repository = "https://github.com/ichigo-chameleon/Goruath"
+documentation = "https://github.com/ichigo-chameleon/Goruath/blob/master/README.md"
+homepage = "https://github.com/ichigo-chameleon/Goruath"
+
 
 [dependencies]
 skia-safe = "0.82.0"
