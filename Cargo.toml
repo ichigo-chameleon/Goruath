@@ -10,3 +10,5 @@ homepage = "https://github.com/ichigo-chameleon/Goruath"
 
 
 [dependencies]
+winit = "0.30.9"
+skia-safe = "0.82.0"
