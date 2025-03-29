@@ -1,12 +1,12 @@
 [package]
-name = "Goruath"
-version = "0.0.2"
+name = "goruath"
+version = "0.0.0"
 edition = "2024"
 description = "test"
 license = "MIT"
-repository = "https://github.com/ichigo-chameleon/Goruath"
-documentation = "https://github.com/ichigo-chameleon/Goruath/blob/master/README.md"
-homepage = "https://github.com/ichigo-chameleon/Goruath"
+repository = "https://github.com/ichigo-chameleon/goruath"
+documentation = "https://github.com/ichigo-chameleon/goruath/blob/master/README.md"
+homepage = "https://github.com/ichigo-chameleon/goruath"
 
 
 [dependencies]
